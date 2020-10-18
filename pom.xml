@@ -24,7 +24,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>1.8</java.version>
     <docker.image.prefix>jgarciao</docker.image.prefix>
-    <org.mapstruct.version>1.2.0.Final</org.mapstruct.version>
+    <org.mapstruct.version>1.4.0.Final</org.mapstruct.version>
   </properties>
 
   <dependencies>
